@@ -1,5 +1,5 @@
 # AI-Assistant
-Uses OpenAI and Elevenlabs API to create a simple, customizable chat buddy.
+Uses OpenAI (Chat GPT) and Elevenlabs API to create a simple, customizable chat buddy that reads out it's responses with high quality voices.
 
 # API Documentation
 
